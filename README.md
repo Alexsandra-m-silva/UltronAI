@@ -1,5 +1,5 @@
 # UltronAI
 Quero Educação Hackathon 2024
 
-# Owner
+# Code Project
 https://github.com/antoniovitor/querohackathon
